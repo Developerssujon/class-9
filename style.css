@@ -1,0 +1,72 @@
+.main-section{
+    width: 1050px;
+    margin: 0 auto;
+}
+.header-menu{
+    background-color: #34495d;
+    color: #c1c6cc;
+    padding: 4px;
+    text-align: center;
+    margin-top: 10px;
+}
+.banner-section{
+    background-color: #e67f32;
+    width: 1050px;
+    text-align: center;
+    padding: 50px;
+}
+.banner-section img{
+ box-shadow: 13px 13px 5px #f9f9f9;
+ margin: 50px;
+ width: 800px;
+}
+.tittle-section{
+    background-color:#33485c;
+    text-align: center;
+    padding: 20px;
+    color: #fbfcfc;
+    
+}
+.sujon h4{
+    color: #358dc7;
+}
+.service-section{
+    background-color:#9c5bb3 ;
+    text-align: center;
+    padding:20px ;
+}
+.sujon2 p{
+    color: #ddcbe5;
+}
+.sujon5{
+    color: #158356;
+}
+.sujon3{
+    color:#dfb053 ;
+}
+.sujon4{
+    color: #95a4a6;
+}
+.border-section{
+    background-color:#ff9930 ;
+    text-align: center;
+    padding-bottom: 12px;
+}
+.whitediv{
+    width: 300px;
+    height: 90px;
+    background-color:#dcdcdc;
+    display: inline-block;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 4px;
+    border: dashed;
+    box-shadow: 9px 15px 0px 3px #f9f9f9;
+    
+}
+.footer-section{
+    background-color:#2c3e4f ;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
